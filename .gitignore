@@ -1,0 +1,5 @@
+/java.iml
+/target/classes/com/work/
+
+# 项目排除路径
+/target/
